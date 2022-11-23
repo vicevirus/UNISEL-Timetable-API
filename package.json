@@ -1,0 +1,15 @@
+{
+  "name": "unisel_timetable_api",
+  "version": "1.0.0",
+  "description": "Unisel Timetable API for scraped data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Firdaus Amran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3"
+  }
+}
